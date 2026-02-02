@@ -1,0 +1,7 @@
+This project is made in React + vite
+
+so run this in localhost or any other server
+
+just install node and react vite
+
+and run the command " Npm run dev "
